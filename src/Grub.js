@@ -8,3 +8,5 @@ Grub.prototype.food = 'jelly';
 Grub.prototype.eat = function() {
 };
 
+Grub.prototype.constructor = Grub;
+
